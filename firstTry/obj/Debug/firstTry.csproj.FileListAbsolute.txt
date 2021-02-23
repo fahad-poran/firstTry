@@ -1,0 +1,68 @@
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\ApplicationInsights.config
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\csc.exe
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\vbc.exe
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\VBCSCompiler.exe
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\firstTry.dll.config
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\firstTry.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\firstTry.pdb
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Web.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.ApplicationInsights.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Web.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.ApplicationInsights.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.csprojResolveAssemblyReference.cache
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.dll
+c:\users\nur26\onedrive\documents\visual studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.pdb
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\ApplicationInsights.config
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\csc.exe
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\System.Collections.Immutable.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\System.Reflection.Metadata.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\vbc.exe
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\VBCSCompiler.exe
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\roslyn\VBCSCompiler.exe.config
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\firstTry.dll.config
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\firstTry.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\firstTry.pdb
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.DependencyCollector.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Web.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.WindowsServer.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.ApplicationInsights.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.DependencyCollector.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.Web.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.AI.WindowsServer.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.ApplicationInsights.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.csprojAssemblyReference.cache
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.csproj.CoreCompileInputs.cache
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.csproj.CopyComplete
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.dll
+E:\Backup for SSD\Visual Studio 2015\Projects\firstTry\firstTry\obj\Debug\firstTry.pdb

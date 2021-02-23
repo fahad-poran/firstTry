@@ -1,0 +1,109 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="firstTry.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <%--bootstrep data--%>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <%--dataTable folder --%>
+    <link href="dataTable/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <%--font-awsome folder download from web--%>
+    <link href="font-awsome/css/all.css" rel="stylesheet" />
+     <%--Custom css--%>
+    <link href="CSS/customstylesheet.css" rel="stylesheet" />
+
+<%-- SCRIPT* JQuery needs tobe ordered correctly!!--%>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+    <%--popper--%>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <%--bootstreep ownJquery--%>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Pataient's Site</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+        </nav> <%--main content placeholder--%>
+    </div>
+
+    <div>
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    </div>
+        <br />
+        <br />
+          <%--Header from bootstrap--%>
+        <div class="card text-dark bg-light mb-3" style="max-width: 18rem;">
+  <div class="card-header">Finest Patient</div>
+  <div class="card-body">
+
+    <h5 class="card-title">Information</h5>
+    <p class="card-text">Report Delivery
+Custom Care
+Cash Counter
+Pharmacy / Medicine
+Billing
+Admission Counseling
+Customer Service</p> </div> 
+</div>
+
+        <%--footer--%>
+        <div class="card">
+  <div class="card-header">
+    Quranic-Quote
+  </div>
+  <div class="card-body">
+    <blockquote class="blockquote mb-0">
+      <p>Call upon me, I will respond to you </p>
+      <footer class="blockquote-footer">| Surah Ghafir 40:60<cite title="Source Title"> |</cite></footer>
+    </blockquote>
+  </div>
+</div>
+        <%--footer end--%>
+
+      
+
+
+    </form>
+</body>
+</html>
