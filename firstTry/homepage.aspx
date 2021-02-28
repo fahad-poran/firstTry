@@ -28,9 +28,9 @@
 
                      <div class="col-md-4"> <%--one row can have 12/3=4 col (md) is medium--%>
             <center><img src="images/icons8-search-100.png" width="150px" />
-                       <h4>Search Doctor</h4>
+                       <h4>Search Doctor By Category</h4>
                        <%--text-justify cls is from bootstrap--%>
-                      <p class="text-justify"><input id="Text1" type="text" /></p></center> 
+                      <p class="text-justify"><asp:DropDownList ID="DropDownList1" runat="server"> <asp:ListItem Text="Gestrology" Value="0" /> <asp:ListItem Text="Eye" Value="0" /></asp:DropDownList></p></center> 
                </div>
                      <div class="col-md-4"> <%--one row can have 12/3=4 col (md) is medium--%>
             <center><img src="images/icons8-document-100.png" width="150px" />
